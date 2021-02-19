@@ -9,4 +9,3 @@ Fx=x;
 Fy=y;
 Fz=z;
 quiver3(x,y,z,Fx,Fy,Fz)
-plot3(1,2,2.87,"marker","*","markersize",100), hold on 
